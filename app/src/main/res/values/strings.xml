@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppStoreMVP</string>
+    <string name="install">Установить</string>
+    <string name="app_store_title">Магазин приложений</string>
+</resources>
